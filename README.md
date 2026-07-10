@@ -145,17 +145,9 @@ The project computes:
 
 This bar chart compares the average price between Fiction and Sequential Art books.
 
-Example:
+## Average Price
 
-```
-Average Price
-      │
- £55 ─┤
- £50 ─┤
- £45 ─┤
-      └────────────────────────
-      Fiction   Sequential Art
-```
+![Average Price](images/average_price.png)
 
 ---
 
