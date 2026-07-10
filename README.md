@@ -147,7 +147,7 @@ This bar chart compares the average price between Fiction and Sequential Art boo
 
 ## Average Price
 
-![Average Price](images/average_price.png)
+![Average Price](images/average_price.jpg)
 
 ---
 
