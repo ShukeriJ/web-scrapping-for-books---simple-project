@@ -148,7 +148,6 @@ This bar chart compares the average price between Fiction and Sequential Art boo
 ## Average Price
 
 ![Average Price](screenshots/average_price.jpg)
-![Average Price](images/average_price.jpg)
 
 ---
 
@@ -162,6 +161,8 @@ This visualization helps identify:
 - Price variability
 - Outliers
 
+![Price_Distribution](screenshots/price_distribution.jpg)
+
 ---
 
 ### 3. Rating Distribution
@@ -169,6 +170,8 @@ This visualization helps identify:
 A grouped bar chart illustrates the number of books for each star rating.
 
 The visualization provides an overview of customer ratings across categories.
+
+![Rating_Distribution](screenshots/rating_distribution.jpg)
 
 ---
 
